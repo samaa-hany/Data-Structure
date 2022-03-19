@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644410807 source:d:\iti_labs\data structure\lab_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1644404288 source:d:\iti_labs\data structure\lab_2\src\queue.cpp
+
+1644410593 source:d:\iti_labs\data structure\lab_2\test.c
+	<stdio.h>
+	<stdlib.h>
+

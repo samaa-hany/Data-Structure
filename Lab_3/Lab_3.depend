@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644419828 source:d:\iti_labs\data structure\lab_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1644412461 source:d:\iti_labs\data structure\lab_3\test.c
+	<stdlib.h>
+
